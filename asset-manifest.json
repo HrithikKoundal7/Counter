@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Counter/static/css/main.d3e9259e.css",
+    "main.js": "/Counter/static/js/main.53e02585.js",
+    "static/media/pexels-moose-photos-1037992.jpg": "/Counter/static/media/pexels-moose-photos-1037992.1ab3f49d466e49d72364.jpg",
+    "index.html": "/Counter/index.html",
+    "main.d3e9259e.css.map": "/Counter/static/css/main.d3e9259e.css.map",
+    "main.53e02585.js.map": "/Counter/static/js/main.53e02585.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3e9259e.css",
+    "static/js/main.53e02585.js"
+  ]
+}
