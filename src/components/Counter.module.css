@@ -1,0 +1,43 @@
+.counterAnimation{
+    text-align: center;
+    margin-top: 60px;
+    animation: counter 1.4s ease-out forwards;
+    animation-iteration-count: infinite;
+    text-shadow:10px 10px 12px  #cac9e7;
+    font-size: 70px;
+    margin-top: 80px;
+    font-family: "Times New Roman", Times, serif;
+    transition: all 2s ease-in-out;
+    cursor: pointer;
+}
+
+@keyframes counter{
+    0% {
+        opacity: 0.3;
+        color: 	#FFC0CB;
+        transform: translateY(-100%);
+    }
+
+    50% {
+        opacity: 0.6;
+        color: #FFC0CB;
+        transform: translateY(90%);
+    }
+
+    100% {
+        opacity: 1;
+        color: #FFC0CB;
+        transform:  translateY(0);
+    }
+}
+
+.counter{
+    text-align: center;
+    font-size: 70px;
+    margin-top: 80px;
+    color: #FFC0CB;
+    text-shadow:10px 10px 12px  #cac9e7;
+    font-family: "Times New Roman", Times, serif;
+    cursor: pointer;
+}
+ 

@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+body {
+  margin: 0;
+  background-image: url('image/pexels-moose-photos-1037992.jpg');
+  background-size: cover;
+}
+ 
